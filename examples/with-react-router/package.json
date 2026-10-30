@@ -18,7 +18,7 @@
     "react-router-dom": "5.1.2"
   },
   "devDependencies": {
-    "@babel/core": "7.7.2",
+    "@babel/core": "7.29.6",
     "@babel/preset-react": "7.7.0",
     "parcel-bundler": "1.12.4",
     "relative-deps": "0.2.0"
